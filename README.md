@@ -1,5 +1,5 @@
-🌾 Crop Yield Prediction Using Weather Data
-📌 Project Overview
+# Crop Yield Prediction Using Weather Data
+ 📌 Project Overview
 This project focuses on predicting crop yield using weather parameters such as temperature, humidity, and rainfall.
 It applies data preprocessing, visualization, and machine learning techniques to analyze the impact of weather conditions on agricultural output.
 
